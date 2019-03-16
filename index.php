@@ -37,7 +37,7 @@ $conn->close(); ?>
     <meta name="author" content="">
     <link rel="icon" href="book.ico">
 
-    <title>Ansible Demo Application</title>
+    <title>Ansbile Demo Application</title>
 
     <!-- Bootstrap core CSS -->
     <link href="bootstrap.min.css" rel="stylesheet">
@@ -74,7 +74,7 @@ $conn->close(); ?>
                     </span>
                 </h3>
                 <h3>Environment: <span class="label label-info"><?php echo $config['environment'] ?></span></h3>
-                <h3>Application Version: <span class="label label-info">1.2</span></h3>
+                <h3>Application Version: <span class="label label-info">1.3</span></h3>
                 <h3>Database Scripts Version: <?php
                         if ($dbVersion) {echo '<span class="label label-info">'. $dbVersion;}
                         else {echo '<span class="label label-danger">Failed to load version data';}
