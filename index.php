@@ -83,7 +83,7 @@ $conn->close(); ?>
 
             <div class="mastfoot">
                 <div class="inner">
-                    <p>Ansible Demo application provided by the <a href="https://www.devopslibrary.com/">DevOps Library</a>.</p>
+                    <p>Ansible Demo application customized by the <a href="https://github.com/ArunNadda/learning-ansible">AKN</a>.</p>
                 </div>
             </div>
         </div>
